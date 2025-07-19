@@ -8,4 +8,4 @@ npm run dev
 docker build -t tt .
 docker run -it tt   
 ```
-Приложение доступно по адресу http://localhost:5173
+Приложение доступно по адресу http://localhost:1010
