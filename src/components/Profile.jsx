@@ -10,6 +10,7 @@ function Profile() {
         <h3>
             {lastName} {firstName} {middleName}
         </h3>
+        <a href='/public/kka.pdf' download={'kka_resume.pdf'}>скачать резюме hh</a>
     </div>
   )
 }
